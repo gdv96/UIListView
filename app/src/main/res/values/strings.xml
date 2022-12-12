@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">UIListView</string>
 
-    <string name="colors">
+    <string-array name="colors">
         <item>red</item>
         <item>orange</item>
         <item>yellow</item>
@@ -22,6 +22,6 @@
         <item>silver</item>
         <item>teal</item>
         <item>white</item>
-    </string>
+    </string-array>
 
 </resources>
